@@ -1,0 +1,13 @@
+-rw-r--r--    1 0        0           14288 Dec 08 09:24 Anatoly_Dyatlov.jpg
+-rw-r--r--    1 0        0            9425 Dec 08 09:24 app8_1.jpg
+-rw-r--r--    1 0        0            3196 Dec 08 09:24 app8_2.jpg
+-rw-r--r--    1 0        0            2872 Dec 08 09:24 app8_3.jpg
+-rw-r--r--    1 0        0            2997 Dec 08 09:24 app8_4.jpg
+-rw-r--r--    1 0        0            3078 Dec 08 09:24 app8_5.jpg
+-rw-r--r--    1 0        0            3646 Dec 08 09:24 app8_6.jpg
+-rw-r--r--    1 0        0            3525 Dec 08 09:24 app8_7.jpg
+-rw-r--r--    1 0        0          126330 Dec 08 09:24 main_title.jpg
+-rw-r--r--    1 0        0           17436 Dec 08 09:24 pic16_1.gif
+-rw-r--r--    1 0        0           13278 Dec 08 09:24 pic16_2.gif
+-rw-r--r--    1 0        0             974 Dec 08 09:24 pic16_3.gif
+-rw-r--r--    1 0        0            3518 Dec 08 09:24 sign.jpg
